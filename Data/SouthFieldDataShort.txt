@@ -1,4 +1,4 @@
-id	 x	 y	 z	from	to	 sample_length	 moisture	 CO2	 Ashes	lithological_code_ALPHA	 LCV	lithological_code
+id	 x	 y	 z	from	to	 sample_length	 moisture	 CO2	 Ash	lithological_code_ALPHA	 LCV	lithological_code
 174/288	-12613	19007	672.6	0	0.5	0.5	NaN	NaN	NaN	AL	NaN	4
 174/288	-12613	19007	672.6	0.5	3	2.5	NaN	NaN	NaN	AL	NaN	4
 174/288	-12613	19007	672.6	3	15	12	NaN	NaN	NaN	HD	NaN	5
